@@ -1,1 +1,1 @@
-main.js
+console.log("Up and running!");
