@@ -1,6 +1,5 @@
 # wdi-fundamentals-memorygame
 wdi-fundamentals-memorygame
 
-<!DOCTYPE html>
-<title> Memory Game </title>
+Front-end develop practice via General Assembley prep course
  
